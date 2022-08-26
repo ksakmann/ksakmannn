@@ -83,8 +83,8 @@ author:
   name             : "Kaspar Sakmann"
   avatar           : "mugshot.jpg"
   bio              : "Physicist, AI Researcher, Engineer"
-  location         : "Stuttgart, Germany"
-  employer         : "BCAI"
+  location         : "BCAI, Stuttgart, Germany"
+  employer         : 
   email            : "kaspar.sakmann@gmail.com"  
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cmIHK9UAAAAJ&hl=de&oi=ao"
