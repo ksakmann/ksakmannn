@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaspar Sakmann (D.Sc.)"
+  name             : "Kaspar Sakmann"
   avatar           : "mugshot.jpg"
   bio              : "Physicist, AI Researcher, Engineer"
   location         : "Stuttgart, Germany"
-  employer         :
+  employer         : "BCAI"
+  email            : "kaspar.sakmann@gmail.com"  
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cmIHK9UAAAAJ&hl=de&oi=ao"
-  email            : "kaspar.sakmann@gmail.com"
+  github           : "ksakmann"  
   researchgate     : "https://www.researchgate.net/profile/Kaspar-Sakmann"
   uri              :
   bitbucket        :
@@ -96,7 +97,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ksakmann"
   google_plus      :
   keybase          :
   instagram        :
