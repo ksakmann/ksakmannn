@@ -5,7 +5,7 @@ permalink: /publication/2016-01-01-Single-shot-simulations
 excerpt: 'tldr: This paper is about simulations of the imaging process of single experimental realizations of ultracold quantum many-body systems.'
 date: 2016-01-01
 venue: 'Nature Physics'
-paperurl: 'https://www.nature.com/articles/nphys3631'
+paperurl: 'https://doi.org/10.1038/nphys3631'
 citation: 'Kaspar Sakmann, Mark Kasevich (2016). &quot;Single-shot simulations of dynamic quantum many-body systems &quot; <i>Nature Physics</i> 12, 451, Jan 2016.'
 ---
 Single experimental shots of ultracold quantum gases sample the many-particle probability distribution.

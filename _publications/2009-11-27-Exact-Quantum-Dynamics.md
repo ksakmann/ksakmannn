@@ -5,7 +5,7 @@ permalink: /publication/2009-11-27-Exact-Quantum-Dynamics
 excerpt: 'tldr: This paper is about a numerically exact solution of the many-boson Schrödinger equation in a double well potential.'
 date: 2009-11-27
 venue: 'Physical Review Letters'
-paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.103.220601'
+paperurl: 'https://doi.org/10.1103/physrevlett.103.220601'
 citation: 'Kaspar Sakmann, Alexej I. Streltsov, Ofir E. Alon, and Lorenz S. Cederbaum (2009).
 &quot;Exact Quantum Dynamics of a Bosonic Josephson Junction.&quot; <i>Physical Review Letters</i>, 103, 200601.'
 ---

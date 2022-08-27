@@ -10,7 +10,7 @@ citation: 'Kaspar Sakmann, Mark Kasevich (2014). &quot;Single-shot three-dimensi
 ---
 Light field microscopy methods together with three-dimensional (3D) deconvolution can be used to obtain single-shot
 3D images of atomic clouds. We demonstrate the method using a test setup that extracts
-3D images from a fluorescent Rb^{87} atomic vapor.
+3D images from a fluorescent Rb<sup>87</sup> atomic vapor.
 
 [Download preprint here](https://arxiv.org/abs/1405.3598)
 
