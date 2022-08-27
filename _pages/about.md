@@ -21,4 +21,4 @@ with a special focus on semantic segmentation. In customer projects I have worke
 generative models and outlier detection.
 
 
-For more details, see my CV and Google Scholar.
+For more details, see my [CV](/files/CV-Kaspar-Sakmann.pdf) and Google Scholar.
