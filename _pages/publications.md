@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-These are my favourite papers, for a complete list see  <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+These are my favourite papers, for a complete list see my Google Scholar profile.
 
 {% include base_path %}
 
