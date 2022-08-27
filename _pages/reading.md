@@ -4,9 +4,9 @@ permalink: "/reading/"
 author_profile: true
 ---
 
-Online References
+# Online References
 
-Books
+## Books
 ======
 
 * [High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications by Wright and Ma](https://book-wright-ma.github.io/)
