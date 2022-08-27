@@ -11,9 +11,9 @@ redirect_from:
 
 I work as a research engineer at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/about-us/our-people/) in Stuttgart, Germany.
 
-Previously, I was a Physics Postdoc at the TU Vienna, and Postdoctoral Research Fellow at Stanford University.
+Previously, I was a Physics Postdoc at the [TU Vienna](http://atomchip.org/), and Postdoctoral Research Fellow at [Stanford University](https://web.stanford.edu/group/kasevich/cgi-bin/wordpress/).
 
-I completed my Physics PhD at the University of Heidelberg, Germany under supervision of Prof. Cederbaum.
+I completed my Physics PhD at the [University of Heidelberg](https://www.pci.uni-heidelberg.de/cms/index.html), Germany under supervision of Prof. Cederbaum.
 
 
 My current research topics are generalization and robustness of deep learning models for computer vision
