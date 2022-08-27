@@ -9,10 +9,16 @@ redirect_from:
 ---
 
 
-I currently work as a research engineer at the Bosch Center for Artificial Intelligence in Stuttgart, Germany. My research is about generalization and  robustness of deep learning models for computer vision, with a special focus on semantic segmentation. 
+I work as a research engineer at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/about-us/our-people/) in Stuttgart, Germany.
 
-Previously I worked on quantum many-body physics and computational photography with applications to quantum metrology. I was a PostDoc at the TU Vienna, and obtained a Research Fellowship from Stanford University. 
+Previously, I was a Physics Postdoc at the TU Vienna, and Postdoctoral Research Fellow at Stanford University.
 
-I completed my PhD in Physics at the University of Heidelberg, Germany under supervision of Prof. Cederbaum.
+I completed my Physics PhD at the University of Heidelberg, Germany under supervision of Prof. Cederbaum.
+
+
+My current research topics are generalization and robustness of deep learning models for computer vision
+with a special focus on semantic segmentation. In customer projects I have worked on topics such as domain adaptation,
+generative models and outlier detection.
+
 
 For more details, see my CV and Google Scholar.
