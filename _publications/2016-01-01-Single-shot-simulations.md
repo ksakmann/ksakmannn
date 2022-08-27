@@ -2,7 +2,7 @@
 title: "Single-shot simulations of dynamic quantum many-body systems"
 collection: publications
 permalink: /publication/2016-01-01-Single-shot-simulations-1
-excerpt: 'This paper is about simulations of the imaging process of single experimental realizations of ultracold quantum many-body systems.'
+excerpt: 'tldr: This paper is about simulations of the imaging process of single experimental realizations of ultracold quantum many-body systems.'
 date: 2016-01-01
 venue: 'Nature Physics'
 paperurl: 'https://www.nature.com/articles/nphys3631'
