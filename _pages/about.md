@@ -17,7 +17,7 @@ I completed my Physics PhD at the [University of Heidelberg](https://www.pci.uni
 
 
 My current research topics are generalization and robustness of deep learning models for computer vision
-with a special focus on semantic segmentation. In customer projects I have worked on topics such as domain adaptation,
+with a special focus on outlier detection in semantic segmentation. In customer projects I have worked on topics such as domain adaptation,
 generative models and outlier detection.
 
 
