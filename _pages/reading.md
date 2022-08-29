@@ -11,5 +11,7 @@ author_profile: true
 
 
 ## Diffusion Models
+* [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/abs/2208.09392)
 * [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+
 
