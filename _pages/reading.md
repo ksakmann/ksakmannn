@@ -18,3 +18,6 @@ author_profile: true
 
 ## Anomaly Segmentation
 * [Pixel-wise Energy-biased Abstention Learning for Anomaly Segmentation on Complex Urban Driving Scenes](https://arxiv.org/abs/2111.12264v4)
+
+## Open Set Recognition
+* [Open-Set Recognition: a Good Closed-Set Classifier is All You Need?](https://www.robots.ox.ac.uk/~vgg/research/osr/)
