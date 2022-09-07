@@ -21,3 +21,4 @@ author_profile: true
 
 ## Open Set Recognition
 * [Open-Set Recognition: a Good Closed-Set Classifier is All You Need?](https://www.robots.ox.ac.uk/~vgg/research/osr/)
+* [The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods](https://arxiv.org/abs/2203.02486)
