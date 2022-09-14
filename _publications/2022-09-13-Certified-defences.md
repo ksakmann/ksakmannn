@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-09-13-Certified-defences
 excerpt: 'tldr: we mask out areas and use a voring mechanism to defend certifiably against patch attacks.'
 date: 2022-09-13
-venue: 'Preprint submitted to NeurIPS 2022'
+venue: 'Preprint'
 paperurl: 'https://arxiv.org/abs/2209.05980'
 citation: 'Maksym Yatsura, Kaspar Sakmann, N. Grace Hua, Matthias Hein, Jan Hendrik Metzen (2022). 
 &quot;Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation.&quot; <i>arXiv:2209.05980</i>'
