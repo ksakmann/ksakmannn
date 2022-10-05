@@ -11,7 +11,7 @@ redirect_from:
 
 I work as a research engineer at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/about-us/our-people/) in Stuttgart, Germany.
 
-Previously, I was a Physics Postdoc at the [TU Vienna](http://atomchip.org/), and Postdoctoral Research Fellow at [Stanford University](https://web.stanford.edu/group/kasevich/cgi-bin/wordpress/).
+Previously, I worked on quantum sensors and many-body dynamics. I was a Physics postdoc at the [TU Vienna](http://atomchip.org/) (2015-2016), and Postdoctoral Research Fellow at [Stanford University](https://web.stanford.edu/group/kasevich/cgi-bin/wordpress/) (2012-2015).  
 
 I completed my Physics PhD at the [University of Heidelberg](https://www.pci.uni-heidelberg.de/cms/index.html), Germany under supervision of Prof. Cederbaum.
 
