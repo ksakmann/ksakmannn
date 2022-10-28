@@ -9,12 +9,9 @@ author_profile: true
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html), **Murphy**
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html), **Murphy**
 
-## Diffusion Models
-* [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/abs/2208.09392)
-* [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 
-## Semantic Segmentation
-* [Rethinking Semantic Segmentation: A Prototype View](https://arxiv.org/abs/2203.15102)
+## OOD Detection
+* [Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities](https://arxiv.org/abs/2206.09880)
 
 ## Anomaly Segmentation
 * [Pixel-wise Energy-biased Abstention Learning for Anomaly Segmentation on Complex Urban Driving Scenes](https://arxiv.org/abs/2111.12264v4)
@@ -22,3 +19,10 @@ author_profile: true
 ## Open Set Recognition
 * [Open-Set Recognition: a Good Closed-Set Classifier is All You Need?](https://www.robots.ox.ac.uk/~vgg/research/osr/)
 * [The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods](https://arxiv.org/abs/2203.02486)
+
+## Diffusion Models
+* [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/abs/2208.09392)
+* [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+
+## Semantic Segmentation
+* [Rethinking Semantic Segmentation: A Prototype View](https://arxiv.org/abs/2203.15102)
