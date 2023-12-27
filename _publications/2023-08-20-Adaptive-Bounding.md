@@ -5,7 +5,7 @@ permalink: /publication/2023-08-20-Adaptive-Bounding
 excerpt: 'tldr: we use conformal prediction to provide coverage guarantees for bounding boxes'
 date: 2023-08-19
 venue: 'ICCV - UNQCV Workshop'
-paperurl: [Download paper here](http://ksakmann.github.io/files/conformalbbox_uncv23.pdf)
+paperurl: 'http://ksakmann.github.io/files/conformalbbox_uncv23.pdf'
 citation: 'Alexander Timans, Christoph-Nikolas Straehle, Kaspar Sakmann, Eric Nalisnick (2023). 
 &quot;Adaptive Bounding Box Uncertainty via Conformal Prediction.&quot; <i>arXiv:2308.09965</i>'
 ---
