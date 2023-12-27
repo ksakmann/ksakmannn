@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-02-01-Certified-defences
 excerpt: 'tldr: we mask out areas and use a voring mechanism to defend certifiably against patch attacks.'
 date: 2023-02-01
-venue: 'ICLR 2023'
+venue: 'ICLR'
 paperurl: 'https://arxiv.org/abs/2209.05980'
 citation: 'Maksym Yatsura, Kaspar Sakmann, N. Grace Hua, Matthias Hein, Jan Hendrik Metzen (2023). 
 &quot;Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation.&quot; <i>arXiv:2209.05980</i>'
