@@ -2,7 +2,7 @@
 title: "Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation"
 collection: publications
 permalink: /publication/2023-02-01-Certified-defences
-excerpt: 'tldr: we mask out areas and use a voring mechanism to defend certifiably against patch attacks.'
+excerpt: 'tldr: we mask out areas and use a scoring mechanism to defend against patch attacks.'
 date: 2023-02-01
 venue: 'ICLR'
 paperurl: 'https://arxiv.org/abs/2209.05980'
