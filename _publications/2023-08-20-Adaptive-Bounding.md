@@ -7,7 +7,7 @@ date: 2023-08-19
 venue: 'ICCV - UNQCV Workshop'
 paperurl: 'http://ksakmann.github.io/files/conformalbbox_uncv23.pdf'
 citation: 'Alexander Timans, Christoph-Nikolas Straehle, Kaspar Sakmann, Eric Nalisnick (2023). 
-&quot;Adaptive Bounding Box Uncertainty via Conformal Prediction.&quot; <i>arXiv:2308.09965</i>'
+&quot;Adaptive Bounding Box Uncertainty via Conformal Prediction.&quot; <i>https://uncv2023.github.io/papers/</i>'
 ---
 
 We quantify the uncertainty in multi-object bounding
